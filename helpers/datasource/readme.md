@@ -1,0 +1,1 @@
+A data source allows for the retrieval of data in a structure that can be iterated over.  It builds in sorting, filtering, and pagination.
